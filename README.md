@@ -1,1 +1,1 @@
-![Alt text](https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FFfEhP0Pr08IK975-7Fv4BEwPX_o9gHvE6JQYS_-HMl8.jpg%3Fauto%3Dwebp%26v%3Denabled%26s%3Dfeb57a81bbad3093d7222518513e656ceddb1a0f)
+![Alt text](https://github.com/calinux-py/calinux-py/blob/main/Screenshot%202023-11-20%20231542.png)
