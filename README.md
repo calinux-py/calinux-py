@@ -5,4 +5,3 @@
 ![Batch](https://img.shields.io/badge/-Batch-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=windows-terminal&logoColor=white)
