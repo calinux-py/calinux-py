@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CaliNux;Software,+AI,+Malware+Research)](https://git.io/typing-svg)
 
-![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
-![Batch](https://img.shields.io/badge/-Batch-black?style=flat-square&logo=windows-terminal)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/-Batch-black?style=flat-square&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
