@@ -7,4 +7,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calinux-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Visitor Count](https://komarev.com/ghpvc/?username=calinux-py&color=green&style=flat-square)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=calinux-py&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
