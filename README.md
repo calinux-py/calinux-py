@@ -7,3 +7,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calinux-py&show_icons=true&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=calinux-py)
