@@ -11,5 +11,3 @@ i build stuff. usually osint, threat intelligence, and security automation tools
 **[WhoDAT](https://osintnova.com)**
 
 **[Annalyx](https://annalyx.app)**
-
-[i tweet sometimes](https://x.com/__cali__)
