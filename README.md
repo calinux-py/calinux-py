@@ -10,4 +10,6 @@ i build stuff. usually osint, threat intelligence, and security automation tools
 
 **[WhoDAT](https://osintnova.com)**
 
+**[OwlURL](https://owlurl.com)**
+
 **[Annalyx](https://annalyx.app)**
