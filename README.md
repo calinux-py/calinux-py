@@ -1,5 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=cali;Software,+AI,+Malware+Research)](https://git.io/typing-svg)
+<h1 align="center">cali</h1>
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calinux-py&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">Nerd · Founder of <a href="https://avenyx.io"><b>Avenyx</b></a></p>
 
-`Software | CyberSec | AI | Bots | Malware Analysis`
+---
+
+i build stuff. ssually osint, threat intelligence, and security automation tools. 
+
+**[OSINTNova](https://osintnova.com)** — OSINT platform. Username, email, phone, and domain intelligence with AI-generated reports.
+
+**[WhoDAT](https://osintnova.com)** — Multi-engine threat scanner for URLs, files, emails, and IPs.
+
+**[Annalyx](https://annalyx.app)** — _one line here_
+
+[avenyx.io](https://avenyx.io) · [@osintnova](https://x.com/osintnova)
