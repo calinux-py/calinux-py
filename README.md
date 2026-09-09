@@ -6,10 +6,10 @@
 
 i build stuff. usually osint, threat intelligence, and security automation tools. 
 
-**[OSINTNova](https://osintnova.com)** — OSINT platform. Username, email, phone, and domain intelligence with AI-generated reports.
+**[OSINTNova](https://osintnova.com)**
 
-**[WhoDAT](https://osintnova.com)** — Multi-engine threat scanner for URLs, files, emails, and IPs.
+**[WhoDAT](https://osintnova.com)**
 
-**[Annalyx](https://annalyx.app)** — _one line here_
+**[Annalyx](https://annalyx.app)**
 
 [avenyx.io](https://avenyx.io) · [@osintnova](https://x.com/osintnova)
