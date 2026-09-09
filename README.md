@@ -1,6 +1,6 @@
 <h1 align="center">cali</h1>
 
-<p align="center">nerd · founder of <a href="https://avenyx.io"><b>Avenyx</b></a></p>
+<p align="center">nerd · founder of <a href="https://avenyx.io"><b>avenyx</b></a></p>
 
 ---
 
@@ -12,4 +12,4 @@ i build stuff. usually osint, threat intelligence, and security automation tools
 
 **[Annalyx](https://annalyx.app)**
 
-[avenyx.io](https://avenyx.io) · [@osintnova](https://x.com/osintnova)
+[i tweet sometimes](https://x.com/__cali__)
