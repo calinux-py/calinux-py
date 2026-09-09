@@ -1,10 +1,10 @@
 <h1 align="center">cali</h1>
 
-<p align="center">Nerd · Founder of <a href="https://avenyx.io"><b>Avenyx</b></a></p>
+<p align="center">nerd · founder of <a href="https://avenyx.io"><b>Avenyx</b></a></p>
 
 ---
 
-i build stuff. ssually osint, threat intelligence, and security automation tools. 
+i build stuff. usually osint, threat intelligence, and security automation tools. 
 
 **[OSINTNova](https://osintnova.com)** — OSINT platform. Username, email, phone, and domain intelligence with AI-generated reports.
 
