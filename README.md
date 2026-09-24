@@ -13,16 +13,16 @@
 
 ---
 
-I build intelligence and security products end to end — from data collection and APIs to the platforms people use every day.
+I build intelligence and security products end to end, from data collection and APIs to the platforms people use every day.
 
 ### Products
 
 | | |
 |---|---|
 | **[OSINTNova](https://osintnova.com)** | Open-source intelligence platform with email, username, and exposure lookups plus AI-generated reports. Hundreds of paying subscribers, millions of requests per month. |
-| **[WhoDAT](https://osintnova.com)** | Free lookup tool in the OSINTNova ecosystem. |
-| **[OwlURL](https://owlurl.com)** | URL intelligence — see where a link really goes before you click. |
-| **[Annalyx](https://annalyx.app)** | ONE-LINER HERE |
+| **[WhoDAT](https://whodat.email)** | Free lookup tool in the OSINTNova ecosystem. |
+| **[OwlURL](https://owlurl.com)** | URL intelligence. See where a link really goes before you click. |
+| **[Annalyx](https://annalyx.app)** | AI-powered data analysis that turns raw datasets into insights, visualizations, and reports. |
 
 ---
 
