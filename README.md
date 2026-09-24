@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://avenyx.io"><img src="https://img.shields.io/badge/avenyx.io-111111?style=flat-square" /></a>
   <a href="https://osintnova.com"><img src="https://img.shields.io/badge/osintnova.com-111111?style=flat-square" /></a>
-  <a href="https://x.com/osintnova"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/__cali__"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://discord.gg/wwrAFEYXtH"><img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
