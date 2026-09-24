@@ -19,7 +19,7 @@ I build intelligence and security products end to end, from data collection and 
 
 | | |
 |---|---|
-| **[OSINTNova](https://osintnova.com)** | Open-source intelligence platform with email, username, and exposure lookups plus AI-generated reports. Hundreds of paying subscribers, millions of requests per month. |
+| **[OSINTNova](https://osintnova.com)** | Open-source intelligence platform with email, username, and exposure lookups plus AI-generated reports. |
 | **[WhoDAT](https://whodat.email)** | Free lookup tool in the OSINTNova ecosystem. |
 | **[OwlURL](https://owlurl.com)** | URL intelligence. See where a link really goes before you click. |
 | **[Annalyx](https://annalyx.app)** | AI-powered data analysis that turns raw datasets into insights, visualizations, and reports. |
